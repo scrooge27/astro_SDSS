@@ -1,0 +1,27 @@
+#quantity  mean  std  median  err_mediana
+#BPT
+n_alpha_flux_blw_relation   -0.536897   0.173754   -0.486187   0.114438
+
+n_alpha_flux_abv_relation   -0.294455   0.137067   -0.264343   0.057734
+
+o_beta_flux_blw_relation   -0.324676   0.310597   -0.359513   0.310879
+
+o_beta_flux_abv_relation   0.039199   0.368544   -0.005663   0.385783
+
+#color-mass
+mass_blw_relation   9.901723   0.545835   9.975102   0.530453
+
+mass_abv_relation   10.345889   0.465714   10.460161   0.346148
+
+u_r_Mag_blw_relation   1.687977   0.245604   1.683699   0.249612
+
+u_r_Mag_abv_relation   2.577159   0.363905   2.554170   0.340215
+
+#SFR-mass
+mass_blw_relation   10.437350   0.380470   10.483599   0.334664
+
+mass_abv_relation   9.993585   0.568396   10.075533   0.582791
+
+sfr_blw_relation   -1.366191   0.373397   -1.365222   0.344964
+
+sfr_abv_relation   -0.080508   0.472539   -0.008268   0.426489
